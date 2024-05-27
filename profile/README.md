@@ -29,6 +29,8 @@ Welcome! have a sit, grab a coffee, with neonmist. The official lo.cafe color sc
 
 ### Termcolors
 
+| Name              | Hex      |
+|-------------------|----------|
 | ansiBlack         | "#171623"|
 | ansiBrightBlack   | "#666666"|
 | ansiBlue          | "#a6c8ff"|
